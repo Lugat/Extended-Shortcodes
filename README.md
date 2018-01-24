@@ -3,7 +3,9 @@ Extended shortcodes for Wordpress
 
 This plugins takes advantage of the [Shortcode Parser](https://github.com/Lugat/Shortcode-Parser).
 
-The main advantage of this plugin is the possibility to created nested shortcodes which will be parsed correctly by finding the correct closing tag.
+The main advantage of this plugin is the possibility to created nested shortcodes of the same type, which will be parsed correctly by finding the correct closing tag.
+
+See: https://codex.wordpress.org/Shortcode_API#Nested_Shortcodes
 
 ### Activation
 
